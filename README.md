@@ -1,1 +1,4 @@
-<!-- This is just a plain README File. This is for my learning knowledge and do not claim anything as my own at this current time-->
+This is just a plain text file. Work is still in progress on the website.
+
+Thanks
+CodyMac
