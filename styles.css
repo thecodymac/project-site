@@ -5,11 +5,11 @@ body {
     margin: 35px;
     padding: 25px;
     height: 100vh;
-    background-color: #01011d;
+    background-color: #1d1d1d;
     color: #fafafa;
     text-align: center;
     border-style: solid;
-    border-color:#202020;
+    border-color:#363636;
     border-width: 5px;
     border-radius: 10px;
     box-sizing: border-box;
@@ -19,11 +19,13 @@ h1, h2 {
     color: rgb(255, 123, 0);
     font-family: "Trebuchet MS", sans-serif;
     text-shadow: 2px 2px 5px rgb(126, 125, 125);
+    border-style: solid;
+    border-color: #363636;
+    
 }
 
 nav {
     color: #fff;
-
 }
 
 nav ul {
