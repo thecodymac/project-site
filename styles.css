@@ -53,3 +53,13 @@ aside {
     text-align: left;
     color: white;
 }
+aside .alt-panel{
+    background-color: #333;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    float: right;
+    width: 20%;
+}
+
