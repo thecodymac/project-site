@@ -62,4 +62,9 @@ aside .alt-panel{
     float: right;
     width: 20%;
 }
+.update-header {
+    background: rgba (#333, 0);
+    text-align: left;
+    color: white;
+}
 
