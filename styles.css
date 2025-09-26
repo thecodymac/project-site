@@ -2,7 +2,7 @@
 
 html, body {
     font-family: 'Courier New', monospace;
-    background-image: linear-gradient(#000000, #333);
+    background-image: linear-gradient(#000000, #2c2c2c);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
